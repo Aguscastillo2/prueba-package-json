@@ -15,6 +15,6 @@
   "license": "ISC",
   "description": "A project that does something awesome",
   "dependencies": {
-    "@freecodecamp/example": "^1.1.0"
+    "@freecodecamp/example": "1.2.13"
   }
 }
