@@ -5,8 +5,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "descriptive",
+    "related",
+    "words",
+    "freecodecamp"
+  ],
   "author": "Agustín Castillo",
   "license": "ISC",
-  "description": "A project that does something awesome"
+  "description": "A project that does something awesome",
+  "dependencies": {
+    "@freecodecamp/example": "^1.1.0"
+  }
 }
