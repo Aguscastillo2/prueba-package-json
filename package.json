@@ -14,7 +14,5 @@
   "author": "Agustín Castillo",
   "license": "ISC",
   "description": "A project that does something awesome",
-  "dependencies": {
-    "@freecodecamp/example": "^1.2.13"
-  }
+  "dependencies": {}
 }
